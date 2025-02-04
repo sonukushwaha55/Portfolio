@@ -1,6 +1,7 @@
 import React from 'react'
 import './About.css'
 import logo from '../../assets/logo.png'
+import profile from '../../assets/profile.png'
 
 
 const About = () => {
@@ -10,9 +11,9 @@ const About = () => {
         <h1>About me</h1>
         <img src={logo} alt="" />
       </div>
-      <div className="about-section">
+      <div className="about-sections">
         <div className="about-left">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Circle-icons-profile.svg/2048px-Circle-icons-profile.svg.png" alt="" />
+            <img src={profile} alt="" />
         </div>
         <div className="about-right">
             <div className="about-para">
@@ -43,12 +44,12 @@ const About = () => {
           <h1>1+</h1>
           <p>YEARS OF EXPERIENCE</p>
         </div>
-        <hr /> 
+      <hr />
         <div className="about-achievement">
         <h1>10+</h1>
         <p>PROJECTS COMPLETED</p>
         </div>
-        <hr />
+     <hr />
         <div className="about-achievement">
         <h1>5+</h1>
         <p>HAPPY CLIENTS</p>

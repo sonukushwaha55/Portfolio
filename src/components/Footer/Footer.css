@@ -1,0 +1,19 @@
+.footer-line hr{
+    margin: 0px 170px;
+}
+.footer{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 20px 170px;
+font-size: 17px;
+padding-bottom: 30px;
+}
+.footer-right{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.footer-right p{
+    cursor: pointer;
+}

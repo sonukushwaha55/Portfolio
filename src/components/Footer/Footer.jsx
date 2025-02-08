@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='footer-line'>
         <hr />   
       <div className='footer'>
-        <p>© 2024 Sonu Kumar. All rights reserved.</p>
+        <p>© 2025 Sonu Kumar. All rights reserved.</p>
        <div className="footer-right">
         <p>Term of Services</p>
         <p>Privacy Policy</p>

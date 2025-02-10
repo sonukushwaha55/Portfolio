@@ -17,3 +17,15 @@ padding-bottom: 30px;
 .footer-right p{
     cursor: pointer;
 }
+@media(max-width:768px){
+    .footer{
+        margin: 30px 70px;
+        flex-direction: column-reverse;
+        align-items: start;
+        gap: 10px;
+    }
+    .footer-line hr{
+       margin: 0px 70px;
+    
+    }
+}

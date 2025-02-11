@@ -18,7 +18,7 @@ const closeMenu = ()=>{
 
   return (
     <div className='navbar'>
-        <img src="https://png.pngtree.com/png-vector/20220705/ourmid/pngtree-letter-s-logo-png-png-image_5685888.png" alt="" />
+        <h1>Portfolio.</h1>
         <i onClick={openMenu} className="nav-open ri-menu-3-fill"></i>
    <ul ref={menuRef} className="nav-menu">
    <i onClick={closeMenu} className=" nav-close ri-close-large-fill"></i>

@@ -19,16 +19,6 @@ const Services_Data = [
       s_name: "Social Media",
       s_desc: "Managing and optimizing social media profiles to enhance brand awareness and customer engagement..."
     },
-    {
-      s_no: 5,
-      s_name: "App Design",
-      s_desc: "Designing intuitive and interactive mobile app interfaces for a seamless user experience..."
-    },
-    {
-      s_no: 6,
-      s_name: "Content Writing",
-      s_desc: "Creating high-quality, engaging, and SEO-friendly content for websites, blogs, and marketing..."
-    }
   ];
   
   export default Services_Data

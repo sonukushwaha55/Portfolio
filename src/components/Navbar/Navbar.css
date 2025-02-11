@@ -5,8 +5,14 @@
     margin: 20px 170px;
     /* background-color: red; */
 }
-img{
-    height: 80px;
+.navbar h1{
+    font-size: 40px;
+    font-weight: 700;
+    background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.6%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
 }
 
 .nav-menu{
